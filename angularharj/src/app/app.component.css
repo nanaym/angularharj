@@ -1,0 +1,18 @@
+    div {
+        text-align: center;
+    }
+    
+    a {
+        font: bold;
+        font-size: 20px;
+        background-color: rgb(148, 211, 219);
+        background-size: 300px 100px;
+        color: rgb(58, 58, 58);
+        border-radius: 3px;
+        margin: 5px;
+        border: 20px;
+    }
+    
+    a:hover {
+        color: rgb(255, 255, 255);
+    }
